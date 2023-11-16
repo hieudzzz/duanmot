@@ -4,7 +4,7 @@
 }
 .container{
     box-sizing: border-box;
-    width: 1440px;
+    width: 1520px;
     margin: auto;
 }
 
@@ -41,6 +41,7 @@ ul li a:hover{
 /* start sanphambanchay */
 .sanphambanchay{
     text-align: center;
+    height: 900px;
 }
 .sanphambanchay-title{
     text-align: center;
@@ -74,6 +75,7 @@ ul li a:hover{
 /* start sanphammoive */
 .sanphammoive{
     text-align: center;
+    height: 900px;
 }
 .sanphammoive-title{
     text-align: center;
@@ -344,7 +346,7 @@ ul li a:hover{
     background: url(img/banner.jpg);
     min-height: 610px;
     width: 100%;
-    margin-top: 100px;
+    margin-top: 80px;
   }
   header{
     position: fixed;
@@ -353,7 +355,7 @@ ul li a:hover{
     padding: 0px;
     width: 100%;
     height: 80px;
-    background-color: white;
+    background-color: #C1B4B4;
     border-bottom: 1px solid black; 
   }
   .giohang-taikhoan{
@@ -396,3 +398,4 @@ ul li a:hover{
   .ql-dm .danhmuc a:hover{
     color: rgb(65, 185, 175);
   }
+  
